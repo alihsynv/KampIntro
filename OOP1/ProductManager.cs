@@ -10,7 +10,14 @@ namespace OOP1
     {
         public void Add(Product product)
         {
-            
+            Console.WriteLine(product.ProductName + " Added.");
         }
+
+        public void Update(Product product)
+        {
+            Console.WriteLine(product.ProductName + " Updated.");
+        }
+
+        
     }
 }
