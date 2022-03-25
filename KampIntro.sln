@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{A0982A00-8757-421D-8160-BF795B84D7AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{E241477F-E626-46FC-BD4E-B4B3C51E9F7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{E241477F-E626-46FC-BD4E-B4B3C51E9F7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{29F8E928-0E31-4533-B9AB-2515B03E0703}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\Constructor.csproj", "{29F8E928-0E31-4533-B9AB-2515B03E0703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{405E785F-9E92-4ADD-BEB3-F6FE0B24DA3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{29F8E928-0E31-4533-B9AB-2515B03E0703}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29F8E928-0E31-4533-B9AB-2515B03E0703}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29F8E928-0E31-4533-B9AB-2515B03E0703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405E785F-9E92-4ADD-BEB3-F6FE0B24DA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405E785F-9E92-4ADD-BEB3-F6FE0B24DA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405E785F-9E92-4ADD-BEB3-F6FE0B24DA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405E785F-9E92-4ADD-BEB3-F6FE0B24DA3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
