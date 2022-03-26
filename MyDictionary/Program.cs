@@ -9,7 +9,6 @@ namespace MyDictionary
         {
             MyDictionary<int, string> persons = new MyDictionary<int, string>();
             persons.Add(17, "Ali");
-
         }
     }
 }
